@@ -1,0 +1,5 @@
+com\example\DAO\MateriaPrimaDAO.class
+com\example\controllers\MateriaPrimaControlador.class
+com\example\models\MateriaPrima.class
+com\example\MateriaPrimaMain.class
+com\example\config\DatabaseConnection.class
